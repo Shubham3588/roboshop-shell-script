@@ -1,0 +1,1 @@
+echo install MongoDB Component
